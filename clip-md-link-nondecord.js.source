@@ -7,7 +7,8 @@ javascript: (
       .replace(/\#/g, '\\#');
 
     const url = document.URL
-      .replace(/\(/g, '%2528').replace(/\)/g, '%2529');
+      .replace(/\(/g, '%2528')
+      .replace(/\)/g, '%2529');
 
     result = '[' + title + '](' + url + ')';
     console.log(result);

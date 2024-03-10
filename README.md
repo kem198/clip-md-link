@@ -54,6 +54,11 @@
 
 (※) HTTPS 通信環境下でない場合、コピーされずにエラーメッセージを出力します。
 
-## 3. 参考文献
+## 3. 作成に利用したサイト
+
+- [改行・空白・タブ削除ツール｜ちょっと便利なツール・ジェネレーター置き場](https://html-css-javascript.com/n-space-tab/)
+- [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
+
+## 4. 参考文献
 
 - [Markdown/HTML用のリンクを作るbookmarklet \| 晴耕雨読](https://tex2e.github.io/blog/javascript/bookmarklet-for-links)
