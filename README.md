@@ -56,7 +56,7 @@
 
 ## 3. ライセンス
 
-[MIT License](LICENSE)
+- [MIT License](LICENSE)
 
 ## 4. 作成に利用したサイト
 
