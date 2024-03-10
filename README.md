@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # clip-md-link
 
-ウェブサイトのタイトルと URL を Markdown の形式でクリップボードへコピーするブックマークレットです。
+ウェブサイトのタイトルと URL を Markdown 形式でクリップボードへコピーするブックマークレットです。
 
 ## 1. 仕様
 
@@ -62,3 +62,4 @@
 ## 4. 参考文献
 
 - [Markdown/HTML用のリンクを作るbookmarklet \| 晴耕雨読](https://tex2e.github.io/blog/javascript/bookmarklet-for-links)
+- [クリップボードとのやりとり - Mozilla \| MDN](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard#ブラウザーの互換性)
