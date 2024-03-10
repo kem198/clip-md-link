@@ -3,6 +3,12 @@
 
 ウェブサイトのタイトルと URL を Markdown 形式でクリップボードへコピーするブックマークレットです。
 
+例えばこの GitHub リポジトリページ上で実行すると、次の文字列を取得します。
+
+```md
+[kenkenpa198/clip-md-link](https://github.com/kenkenpa198/clip-md-link)
+```
+
 ## 1. 仕様
 
 このブックマークレットには次の仕様が盛り込まれています。
@@ -26,7 +32,7 @@
 
 日本語などのマルチバイト文字などを含む URL において、次の (B) の形式で取得できるようにしています。
 
-```javascript
+```md
 // (A) エンコードされた URL
 [開発者向けのウェブ技術 \| MDN](https://developer.mozilla.org/ja/docs/Web#%E3%82%A6%E3%82%A7%E3%83%96%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88)
 
@@ -56,7 +62,7 @@
 
 - [MIT License](LICENSE)
 
-## 4. 作成に利用したサイト
+## 4. 作成に利用したツール
 
 - [改行・空白・タブ削除ツール｜ちょっと便利なツール・ジェネレーター置き場](https://html-css-javascript.com/n-space-tab/)
 - [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
