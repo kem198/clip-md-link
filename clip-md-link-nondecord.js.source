@@ -10,7 +10,7 @@ javascript: (
       .replace(/\(/g, '%2528')
       .replace(/\)/g, '%2529');
 
-    result = '[' + title + '](' + url + ')';
+    const result = '[' + title + '](' + url + ')';
     console.log(result);
 
     try {

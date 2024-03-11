@@ -12,7 +12,7 @@ javascript: (
 
     const decodedUrl = decodeURI(url);
 
-    result = '[' + title + '](' + decodedUrl + ')';
+    const result = '[' + title + '](' + decodedUrl + ')';
     console.log(result);
 
     try {
